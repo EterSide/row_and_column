@@ -25,6 +25,7 @@ class HomeScreen extends StatelessWidget {
             // end - 끝
             // center - 가운데
 
+
             crossAxisAlignment: CrossAxisAlignment.start,
             // MainAxisSize 주축 크기
             // max - 최대
